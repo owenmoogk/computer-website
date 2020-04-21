@@ -1,0 +1,59 @@
+Hardware
+    Input devices
+    Output devices
+    perpheriphal devices
+    ram
+    rom
+    motherboard
+    cpu
+        alu
+    hard drive
+        ssd
+        hdd
+    cache
+    bus
+    video card
+    sound card
+    universal series bus (usb)
+    other storage devices
+
+    learn more:https://www.crucial.com/usa/en/what-is-computer-hardware
+    https://en.wikiversity.org/wiki/Computer_Hardware_Types
+    https://www.computerhope.com/jargon/h/hardware.htm
+
+software
+    Applications
+    programming languages
+        java
+        cpp
+        css
+        html
+        pthon
+        highlevel vs low level
+    operatinig system
+    interpreter
+
+    learn more:https://www.computerhope.com/jargon/s/software.htm
+    https://en.wikipedia.org/wiki/Software
+
+
+
+    learn more:
+    https://en.wikipedia.org/wiki/Computer_network
+    https://www.computerhope.com/jargon/n/network.htm
+
+Number systems
+    binary
+        memory addresses
+        bits
+        bytes
+        sign, exponent, significand
+        word
+    hexidecimal
+        colors
+    decimal
+    conversion (include link)
+    
+    learn more:
+    https://code.tutsplus.com/articles/number-systems-an-introduction-to-binary-hexadecimal-and-more--active-10848
+    https://medium.com/coderscorner/number-systems-decimal-binary-octal-and-hexadecimal-5e567e55ab28 
